@@ -76,7 +76,7 @@ body {
     margin-right: 10px;
 }
 
-.container .tab label h2 {}
+.container .tab:nth-child() label h2 {}
 
 .container .tab label h3 {
     position: relative;
