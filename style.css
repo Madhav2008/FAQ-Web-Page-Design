@@ -114,7 +114,7 @@ body {
 
 .container .tab input:checked~label h3 {
     background: #fff;
-    padding: ;
+    padding: 2px;
 }
 
 .container .tab .content {
