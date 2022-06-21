@@ -47,5 +47,5 @@ body {
 }
 
 .container .tab label::after {
-    content: '+';
+    content: '+';position: absolute;
 }
