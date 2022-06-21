@@ -138,5 +138,5 @@ body {
 }
 
 .container .tab input:checked~.content p {
-    color: ;
+    color: #fff;
 }
