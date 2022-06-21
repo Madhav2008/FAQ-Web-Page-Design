@@ -29,5 +29,5 @@ body {
 
 .container .tab {
     position: relative;
-    background: #fff;padding: 0;
+    background: #fff;padding: 0 20px;
 }
