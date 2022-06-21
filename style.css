@@ -79,5 +79,6 @@ body {
 .container .tab label h3 {
     position: relative;
     font-weight: 500;
-    color: #333;z-index: ;
+    color: #333;
+    z-index: ;
 }
