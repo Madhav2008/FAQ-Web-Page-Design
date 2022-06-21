@@ -36,4 +36,4 @@ body {
     overflow: hidden;
 }
 
-.container .tab input {}
+.container .tab input {appearance: none;}
