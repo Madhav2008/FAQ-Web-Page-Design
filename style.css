@@ -19,5 +19,6 @@ body {
     margin: 0 40px;
     max-width: 600px;
     display: flex;
-    flex-direction: column;gap: 20px;
+    flex-direction: column;
+    gap: 20px;
 }
