@@ -82,7 +82,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    color: rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 0.2);font-size: ;
 }
 
 .container .tab:nth-child(2) label h2 {
