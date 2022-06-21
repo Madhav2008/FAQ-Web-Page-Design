@@ -31,5 +31,5 @@ body {
     position: relative;
     background: #fff;
     padding: 0 20px 20px;
-    box-shadow: 0 15px 25px;
+    box-shadow: 0 15px 25px rgba(red, green, blue, alpha);
 }
