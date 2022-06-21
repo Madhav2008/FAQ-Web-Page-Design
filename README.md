@@ -4,6 +4,6 @@
 
 # Screenshots
 
-## How do I
+## How do I apply
 
 
