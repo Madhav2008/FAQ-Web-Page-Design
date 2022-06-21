@@ -4,7 +4,7 @@
 
 # Screenshots
 
-## Pixel
+## Pixel 5
 
 ## How do I apply?
 
