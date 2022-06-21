@@ -32,5 +32,5 @@ body {
     background: #fff;
     padding: 0 20px 20px;
     box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
-    border-radius: 5px;
+    border-radius: 5px;overflow: hidden;
 }
