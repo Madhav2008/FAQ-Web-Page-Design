@@ -23,4 +23,6 @@ body {
     gap: 20px;
 }
 
-.container h1 {color: #333;}
+.container h1 {
+    color: #333;
+}
