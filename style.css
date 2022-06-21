@@ -116,7 +116,8 @@ body {
     background: #fff;
     padding: 2px 10px;
     color: #333;
-    border-radius: 2px;box-shadow: ;
+    border-radius: 2px;
+    box-shadow: ;
 }
 
 .container .tab .content {
