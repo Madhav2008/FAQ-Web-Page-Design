@@ -20,6 +20,7 @@
 
 ## How can I update my name?
 
+![image](https://user-images.githubusercontent.com/72864817/174758959-d15e5bc1-29ce-4b15-b40c-63711c888a61.png)
 
 
 ## Pixel 5
