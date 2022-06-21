@@ -27,4 +27,6 @@ body {
     color: #333;
 }
 
-.container .tab {position: absolute;}
+.container .tab {
+    position: absolute;
+}
