@@ -90,5 +90,5 @@ body {
 }
 
 .container .tab input:checked~content {
-    max-height: 1;
+    max-height: 100vh;
 }
