@@ -24,7 +24,8 @@
 
 ## Pixel 5
 
-![image](https://user-images.githubusercontent.com/72864817/174758271-07b0166f-70db-4e3b-b2de-d08a5dc980d5.png)
+![image](https://user-images.githubusercontent.com/72864817/174760789-960facb0-2099-4978-a896-e3ce81f40104.png)
+
 
 ## How do I apply?
 
