@@ -42,5 +42,5 @@ body {
 
 .container .tab label {
     display: flex;
-    align-items: center;
+    align-items: center;cursor: pointer;
 }
