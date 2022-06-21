@@ -18,5 +18,5 @@ body {
 .container {
     margin: 0 40px;
     max-width: 600px;
-    display: flex;
+    display: flex;flex-direction: ;
 }
