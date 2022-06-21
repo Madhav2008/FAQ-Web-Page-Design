@@ -59,4 +59,4 @@ body {
     color: #333;
 }
 
-.container .tab input:checked~ {}
+.container .tab input:checked~label {}
