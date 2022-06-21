@@ -55,4 +55,4 @@ body {
     transition: transform 1s;
 }
 
-.container .tab label::after
+.container .tab:hover label::after
