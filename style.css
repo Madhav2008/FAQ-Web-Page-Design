@@ -95,5 +95,6 @@ body {
 
 .container .tab .content p {
     position: relative;
-    padding: 10px 0;color: #333;
+    padding: 10px 0;
+    color: #333;
 }
