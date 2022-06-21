@@ -55,4 +55,6 @@ body {
     transition: transform 1s;
 }
 
-.container .tab:hover label::after {color: #333;}
+.container .tab:hover label::after {
+    color: #333;
+}
