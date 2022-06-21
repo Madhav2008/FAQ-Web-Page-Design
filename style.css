@@ -89,7 +89,7 @@ body {
 }
 
 .container .tab:nth-child(5) label h2 {
-    background: linear-gradient(135deg, #fd6e6a, #c32bac);
+    background: linear-gradient(135deg, #fd6e6a, #ffc600);
 }
 
 .container .tab label h3 {
