@@ -52,5 +52,5 @@ body {
     right: 20px;
     font-size: 2em;
     color: rgba(0, 0, 0, 0.1);
-    transition: transform;
+    transition: transform 1s;
 }
