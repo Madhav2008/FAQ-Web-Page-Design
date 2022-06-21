@@ -84,5 +84,5 @@ body {
 }
 
 .container .tab .content {
-    max-height: 0;
+    max-height: 0;transition: ;
 }
