@@ -12,6 +12,7 @@
 
 ## How do I apply?
 
+![image](https://user-images.githubusercontent.com/72864817/174758403-b390a168-0f0f-469d-9896-b39a78f3a49b.png)
 
 
 ## Lost or forgotten your password?
