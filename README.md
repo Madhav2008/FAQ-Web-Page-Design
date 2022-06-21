@@ -32,6 +32,7 @@
 
 ## Lost or forgotten your password?
 
+![image](https://user-images.githubusercontent.com/72864817/174759836-c11f0876-bcac-4875-92ca-c21eb6fc59ba.png)
 
 
 ## How can I make a change to my application?
