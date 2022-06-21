@@ -77,7 +77,8 @@ body {
 }
 
 .container .tab input:checked~label h2 {
-    position: absolute;top: 0;
+    position: absolute;
+    top: 0;
 }
 
 .container .tab:nth-child(2) label h2 {
