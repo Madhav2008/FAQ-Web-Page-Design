@@ -89,6 +89,6 @@ body {
     overflow: hidden;
 }
 
-.container .tab input:checked~content {
+.container .tab input:checked~.content {
     max-height: 100vh;
 }
