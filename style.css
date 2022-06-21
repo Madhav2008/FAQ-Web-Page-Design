@@ -63,4 +63,6 @@ body {
     transform: rotate(135deg);
 }
 
-.container .tab label h2 {width: 40px;}
+.container .tab label h2 {
+    width: 40px;
+}
