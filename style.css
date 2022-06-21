@@ -59,4 +59,6 @@ body {
     color: #333;
 }
 
-.container .tab input:checked~label::after {transform: ;}
+.container .tab input:checked~label::after {
+    transform: ;
+}
