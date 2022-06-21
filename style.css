@@ -79,7 +79,7 @@ body {
 .container .tab input:checked~label h2 {
     position: absolute;
     top: 0;
-    top: 0;
+    left: 0;
 }
 
 .container .tab:nth-child(2) label h2 {
