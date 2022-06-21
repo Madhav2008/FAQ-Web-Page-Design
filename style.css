@@ -83,7 +83,8 @@ body {
     width: 100%;
     height: 100%;
     color: rgba(255, 255, 255, 0.2);
-    font-size: 8em;justify-content: flex-end;
+    font-size: 8em;
+    justify-content: flex-end;
 }
 
 .container .tab:nth-child(2) label h2 {
