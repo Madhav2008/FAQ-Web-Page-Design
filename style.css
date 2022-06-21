@@ -61,4 +61,6 @@ body {
 
 .container .tab input:checked~label::after {
     transform: rotate(135deg);
-}.container .tab label
+}
+
+.container .tab label
