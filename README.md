@@ -41,4 +41,3 @@
 ## How can I update my name?
 
 ![image](https://user-images.githubusercontent.com/72864817/174760062-cc86eff5-6e72-47ea-964b-977d4143b6b1.png)
-
