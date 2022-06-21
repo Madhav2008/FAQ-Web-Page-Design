@@ -21,7 +21,3 @@
 ## How can I update my name?
 
 
-
-## How do I apply?
-
-
