@@ -76,4 +76,4 @@ body {
     margin-right: 10px;
 }
 
-.container .tab label h3 {}
+.container .tab label h3 {position: relative;}
