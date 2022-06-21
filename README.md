@@ -12,7 +12,7 @@
 
 
 
-## How can I make a change to my
+## How can I make a change to my application
 
 
 
