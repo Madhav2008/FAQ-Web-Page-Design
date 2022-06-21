@@ -28,5 +28,5 @@ body {
 }
 
 .container .tab {
-    position: absolute;
+    position: relative;
 }
