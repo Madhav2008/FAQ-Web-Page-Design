@@ -76,7 +76,9 @@ body {
     margin-right: 10px;
 }
 
-.container .tab:nth-child(1) label h2 {background: ;}
+.container .tab:nth-child(1) label h2 {
+    background: ;
+}
 
 .container .tab label h3 {
     position: relative;
