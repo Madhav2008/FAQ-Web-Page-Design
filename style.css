@@ -40,4 +40,6 @@ body {
     appearance: none;
 }
 
-.container .tab label {display: flex;}
+.container .tab label {
+    display: flex;
+}
