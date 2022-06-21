@@ -46,4 +46,4 @@ body {
     cursor: pointer;
 }
 
-.container .tab label::after {content: ;}
+.container .tab label::after {content: '';}
