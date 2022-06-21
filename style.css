@@ -60,7 +60,7 @@ body {
 }
 
 .container .tab input:checked~label::after {
-    transform: rotate(135deg);
+    transform: rotate(135deg);color: ;
 }
 
 .container .tab label h2 {
