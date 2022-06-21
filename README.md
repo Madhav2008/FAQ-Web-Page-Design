@@ -8,7 +8,7 @@
 
 
 
-## Lost or forgotten your
+## Lost or forgotten your password
 
 
 
