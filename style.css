@@ -87,4 +87,6 @@ body {
     max-height: 0;
     transition: 1s;
     overflow: hidden;
-}.container .tab input:checked~
+}
+
+.container .tab input:checked~
