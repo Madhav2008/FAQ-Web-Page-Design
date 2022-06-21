@@ -57,4 +57,6 @@ body {
 
 .container .tab:hover label::after {
     color: #333;
-}.container .tab input
+}
+
+.container .tab input
