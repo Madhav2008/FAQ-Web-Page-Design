@@ -12,7 +12,7 @@
 
 
 
-## How do I apply?
+## How 
 
 
 
