@@ -89,4 +89,4 @@ body {
     overflow: hidden;
 }
 
-.container .tab input:checked~content{}
+.container .tab input:checked~content {}
