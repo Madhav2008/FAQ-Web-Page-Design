@@ -14,7 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/72864817/174758738-878c1398-fb78-4018-9bb2-4a0f8bb90c3f.png)
 
-
 ## How can I make a change to my application?
 
 
