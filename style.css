@@ -94,5 +94,6 @@ body {
 }
 
 .container .tab .content p {
-    position: relative;padding: 0;
+    position: relative;
+    padding: 0;
 }
