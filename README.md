@@ -26,7 +26,6 @@
 
 ![image](https://user-images.githubusercontent.com/72864817/174760789-960facb0-2099-4978-a896-e3ce81f40104.png)
 
-
 ## How do I apply?
 
 ![image](https://user-images.githubusercontent.com/72864817/174759273-19e9b48d-fb7a-4343-819d-c0d0b0b0e899.png)
