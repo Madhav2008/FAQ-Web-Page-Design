@@ -53,4 +53,6 @@ body {
     font-size: 2em;
     color: rgba(0, 0, 0, 0.1);
     transition: transform 1s;
-}.container .tab label::after
+}
+
+.container .tab label::after
