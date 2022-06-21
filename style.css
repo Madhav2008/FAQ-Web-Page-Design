@@ -93,4 +93,6 @@ body {
     max-height: 100vh;
 }
 
-.container .tab .content p {position: relative;}
+.container .tab .content p {
+    position: relative;
+}
