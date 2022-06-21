@@ -112,7 +112,9 @@ body {
     z-index: 10;
 }
 
-.container .tab input:checked~label h3 {background: #fff;}
+.container .tab input:checked~label h3 {
+    background: #fff;
+}
 
 .container .tab .content {
     max-height: 0;
