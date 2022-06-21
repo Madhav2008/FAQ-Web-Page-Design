@@ -74,7 +74,7 @@ body {
     font-size: 1.25em;
     border-radius: 5px;
     margin-right: 10px;
-}.container .tab input:checked~label h2{}
+}.container .tab input:checked~label h2 {}
 
 .container .tab:nth-child(2) label h2 {
     background: linear-gradient(135deg, #70f570, #49c628);
