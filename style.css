@@ -18,5 +18,6 @@ body {
 .container {
     margin: 0 40px;
     max-width: 600px;
-    display: flex;flex-direction: column;
+    display: flex;
+    flex-direction: column;
 }
