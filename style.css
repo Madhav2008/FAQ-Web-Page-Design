@@ -85,5 +85,6 @@ body {
 
 .container .tab .content {
     max-height: 0;
-    transition: 1s;overflow: hidden;
+    transition: 1s;
+    overflow: hidden;
 }
